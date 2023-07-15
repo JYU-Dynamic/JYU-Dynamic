@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JYU-Dynamic
-- 👀 I’m interested in C++ Coding,and I like trying new things.
+- 👀 I’m interested in C++ and Java Coding,and I like trying new things.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on C++ progrem.
 - 📫 How to reach me -> 1043677103@qq.com.
