@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JYU-Dynamic
 - 👀 I’m interested in C++ and Java Coding,and I like trying new things.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on C++ progrem.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on C++ or Java and MySql progrem.
 - 📫 How to reach me -> 1043677103@qq.com.
 - Hope to comunicate with you!
 
