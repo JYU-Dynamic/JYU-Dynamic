@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ and Java Coding,and I like trying new things.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on C++ or Java and MySql progrem.
-- 📫 How to reach me （work-email）-> 1043677103@qq.com.
+- 📫 How to reach me （work-email）-> 2728104003@qq.com.
 - Hope to comunicate with you!
 
 <!---
